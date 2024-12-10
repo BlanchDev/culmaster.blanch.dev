@@ -1,0 +1,119 @@
+<div class="yorum">
+	<img src="/resources/photos/discordUsers/kaan.webp" alt="Comment Profile Picture">
+	<div class="data">
+		<div style="color:#248A4F;" class="userName">
+			kaan.  
+			<div class="tarih">
+				15.03.2023 01:58
+			</div>
+		</div>
+		<div class="userMsg">
+			Çok memnunum aeldra 1 hafta oldu no ban
+		</div>
+	</div>
+</div>
+
+<div class="yorum">
+	<img src="/resources/photos/discordUsers/914.webp" alt="Comment Profile Picture">
+	<div class="data">
+		<div style="color:#248A4F;" class="userName">
+			914  
+			<div class="tarih">
+				15.03.2023 01:58
+			</div>
+		</div>
+		<div class="userMsg">
+			tavsiye ediyorum aede tartışmasız en iyisi bence zaten sorun sıkıntı yaşarsasınız hemen ilgileniyorlar 7/24
+		</div>
+	</div>
+</div>
+
+<div class="yorum">
+	<img src="/resources/photos/discordUsers/malpnr.webp" alt="Comment Profile Picture">
+	<div class="data">
+		<div style="color:#248A4F;" class="userName">
+			m.alpnr  
+			<div class="tarih">
+				16.03.2023 03:10
+			</div>
+		</div>
+		<div class="userMsg">
+			Gercekten cok tavsiye ederim gördüğümün en iyisi olabilir 😄 Cevreme tavsiye edicem mutlaka 😄
+		</div>
+	</div>
+</div>
+
+<div class="yorum">
+	<img src="/resources/photos/discordUsers/toshiro.webp" alt="Comment Profile Picture">
+	<div class="data">
+		<div style="color:#248A4F;" class="userName">
+			Toshiro  
+			<div class="tarih">
+				16.03.2023 18:29
+			</div>
+		</div>
+		<div class="userMsg">
+			I'm very happy with the customer service explained everything in detail,smooth transaction i recommend it to everyone 🙂 ❤️
+		</div>
+	</div>
+</div>
+
+<div class="yorum">
+	<img src="/resources/photos/discordUsers/gtier.webp" alt="Comment Profile Picture">
+	<div class="data">
+		<div style="color:#248A4F;" class="userName">
+			GTier  
+			<div class="tarih">
+				16.03.2023 21:09
+			</div>
+		</div>
+		<div class="userMsg">
+			Kesinlikle tavsiye ediyorum. Satın alım sonrası destek konusunda kesinlikle aşırı ilgililer, sorun oluştuğu zaman en kısa sürede çözüme ulaştırıyorlar. Ayrıca istekler doğrultusunda güncellemeler geliyor. adamsın culi ❤️
+		</div>
+	</div>
+</div>
+
+<div class="yorum">
+	<img src="/resources/photos/discordUsers/oromis.webp" alt="Comment Profile Picture">
+	<div class="data">
+		<div style="color:#248A4F;" class="userName">
+			Oromis  
+			<div class="tarih">
+				17.03.2023 09:15
+			</div>
+		</div>
+		<div class="userMsg">
+			hızlı destek bu fiyata zor böyle kalite
+		</div>
+	</div>
+</div>
+
+<div class="yorum">
+	<img src="/resources/photos/discordUsers/ahangos.webp" alt="Comment Profile Picture">
+	<div class="data">
+		<div style="color:#248A4F;" class="userName">
+			aHangos  
+			<div class="tarih">
+				17.03.2023 20:56
+			</div>
+		</div>
+		<div class="userMsg">
+			good best support ❤️
+		</div>
+	</div>
+</div>
+
+<div class="yorum">
+	<img src="/resources/photos/discordUsers/mert78.webp" alt="Comment Profile Picture">
+	<div class="data">
+		<div style="color:#248A4F;" class="userName">
+			Mert78  
+			<div class="tarih">
+				18.03.2023 02:26
+			</div>
+		</div>
+		<div class="userMsg">
+			Aeldra için satın aldım verilen paranın kat ve kat fazlasını çıkartıyorum üstelik 2 hafta oldu halen daha ban yok. 7/24 ilgileniyorlar bir sorun olduğunda oyun karşı fix attığında hemen düzeltiyorlar. Tavsiye ederim herkese.
+		</div>
+	</div>
+</div>
